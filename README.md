@@ -21,6 +21,7 @@ When opening `sales_data.xlsx`, the worksheet appears empty. To view and interac
 3. The data will be on the newly opened page.
 
 **Plesae follow the same steps above when viewing the edited version that includes 'cost, price, gross revenue, tax, and total revenue' on 'Sales_Analysis_DAX_Model'.**
+
 ---
 
 ## 🛒 About the Dataset
