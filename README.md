@@ -104,6 +104,12 @@ To explore the analysis:
 
 ---
 
-## 📩 Questions?
+## 🤝 Contact
 
-If you have questions, suggestions, or want to collaborate, feel free to open an issue or contact me!
+Got feedback or want to collaborate?
+
+📬 [Open an issue](https://github.com/SeojunKim05/PracticeProjects/issues)  
+💼 [LinkedIn](https://www.linkedin.com/in/seojun-kim-089b7b339)  
+📫 Email: kseojun05@gmail.com
+
+---
