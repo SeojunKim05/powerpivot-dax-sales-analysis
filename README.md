@@ -8,7 +8,7 @@ This project showcases an Excel-based data analysis pipeline using **Pivot Table
   Contains the raw source data (hidden by default—see below to access).
   
 - **`Sales_Analysis_DAX_Model.xlsx`**  
-  Includes multiple pivot tables and DAX-based calculations for deep revenue analysis.
+  Includes multiple pivot tables, edited power pivot, and DAX-based calculations for deep revenue analysis.
 
 ---
 
