@@ -1,6 +1,6 @@
 # 🧮 Sales Revenue Analysis with Excel Power Pivot & DAX
 
-This project showcases an Excel-based data analysis pipeline using **Power Pivot** and **DAX formulas**. The goal is to analyze sales performance and revenue patterns for a wholesale company dealing in six core products.
+This project showcases an Excel-based data analysis pipeline using **Pivot Tables,** **Power Pivot** and **DAX formulas**. The goal is to analyze sales performance and revenue patterns for a wholesale company dealing in six core products.
 
 ## 📁 Repository Contents
 
