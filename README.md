@@ -56,13 +56,13 @@ The `Sales_Analysis_DAX_Model.xlsx` contains the following pivot tables and DAX-
 
 ### ✅ 1. Total Sales (< 10 Quantity)
 **Sheet:** `Total Sales<10 PT`  
-- Shows total revenue from orders with **quantities less than 10**.
+- Shows revenue by product and total revenue from orders with **quantities less than 10**.
 - Created using a custom DAX filter measure with `SUMX()` and `FILTER()` functions.
 
 ### 📈 2. Aggregate Total Revenue
 **Sheet:** `TotalSalesAggPT`  
 - Displays the **total revenue** across the entire dataset.
-- Uses a basic `SUM()` function on the total revenue column.
+- Uses a `SUM()` DAX function on the total revenue column.
 
 ### 📊 3. Average Tax by Product
 **Sheet:** `Average Order Tax by Product PT`  
@@ -101,14 +101,6 @@ To explore the analysis:
 - Understanding of calculated columns vs. measures
 - Revenue computation workflows (cost, price, tax, gross and net revenue)
 - Applying business logic with conditional DAX
-
----
-
-## 🧠 Future Improvements
-
-- Automate tax rate rules via a lookup table
-- Integrate slicers for interactive filtering by product/year
-- Export insights to Power BI for dashboard visualizations
 
 ---
 
